@@ -1,8 +1,13 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Home from './components/Home';
+import Navbar from './components/Navbar';
+
 function App() {
   return (
-    <div className="App">
-      <h1>git push --set-upstream origin dev</h1>
-    </div>
+    <>
+      <Navbar />
+      <Home />
+    </>
   );
 }
 
