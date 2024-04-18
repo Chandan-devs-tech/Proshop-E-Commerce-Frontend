@@ -1,0 +1,10 @@
+.shopping-cart {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  color: #fff;
+  background-color: rgb(41, 39, 39);
+  font-family: Arial, sans-serif;
+}

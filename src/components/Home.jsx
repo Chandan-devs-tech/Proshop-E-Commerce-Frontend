@@ -5,7 +5,7 @@ const Home = () => (
   <>
     <div className="carousel-container">
       {' '}
-      <Carousel interval={2500} fluid>
+      <Carousel interval={2500} fluid="true">
         <Carousel.Item>
           <img
             className="d-block w-100 carousel-img"

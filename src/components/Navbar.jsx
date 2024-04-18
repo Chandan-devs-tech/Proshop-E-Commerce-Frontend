@@ -52,7 +52,7 @@ const Navbar = () => {
           <Link className="nav-link" to="/login">
             LOG IN
           </Link>
-          <Link className="nav-link" to="/shopping-bag">
+          <Link className="nav-link" to="/cart">
             BAG (0)
           </Link>
         </div>
